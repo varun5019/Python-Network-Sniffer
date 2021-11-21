@@ -75,3 +75,8 @@ TTL gives the Time to live for the packet
 A Network sniffer was implemented in python on the linux
 terminal to capture data like header length, checksum,
 source and destination address, data field etc.
+
+<h2>Project By</h2>
+
+Varun Sangwan
+Abhinav
