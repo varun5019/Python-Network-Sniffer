@@ -1,4 +1,4 @@
-# Python-Network-Sniffer (CN lab Project)
+# Python-Network-Sniffer
 
 This Project is about sniffing the IP header and finding it all theinformation that can be known from it such as Header Length, SubnetMask, Number of Hosts,Number of Valid Host, Number of Networks,Network Id, Default Gateway, Wild- Card address, Broadcast Id, etc.This is a Python Program program that can run on Linux terminal.The user needs to start the script and the sniffer records all the data as mentioned above.
 <br>
